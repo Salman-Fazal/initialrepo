@@ -1,2 +1,2 @@
 # initialrepo
-Here demo of git
+Here demo of git.
